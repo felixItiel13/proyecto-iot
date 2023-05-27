@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "giovanni00",
+    "database": "temperatura",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "giovanni00",
+    "database": "temperatura",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "giovanni00",
+    "database": "temperatura",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
